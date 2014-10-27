@@ -1,0 +1,24 @@
+{
+  "name": "diffMatchPatch",
+  "version": "0.9.0",
+  "description": "node wrap of google-diff-match-patch",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ruanyl/diff-match-patch"
+  },
+  "keywords": ["diff-match-patch"] ,
+  "author": "yulong ruan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ruanyl/diff-match-patch/issues"
+  },
+  "homepage": "https://github.com/ruanyl/diff-match-patch",
+  "dependencies": {
+    "ava": "0.0.4"
+  },
+  "devDependencies": {}
+}
