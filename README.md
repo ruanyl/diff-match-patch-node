@@ -1,7 +1,6 @@
 diff-match-patch
 ========
-[![build status](https://secure.travis-ci.org/ruanyl/diffMatchPatch.svg)](http://travis-ci.org/ruanyl/diffMatchPatch)
-[![NPM version](https://badge.fury.io/js/diffMatchPatch.svg)](http://badge.fury.io/js/diffMatchPatch)
+[![NPM version](https://badge.fury.io/js/diff-match-patch-node.svg)](http://badge.fury.io/js/diff-match-patch-node)
 
 node wrap of google-diff-match-patch
 
@@ -10,11 +9,11 @@ node wrap of google-diff-match-patch
 This module is installed via npm:
 
 ``` bash
-$ npm install diffMatchPatch
+$ npm install diff-match-patch-node
 ```
 
 ## Example Usage
 
 ``` js
-var diffMatchPatch = require('diffMatchPatch');
+var diffMatchPatch = require('diff-match-patch-node');
 ```

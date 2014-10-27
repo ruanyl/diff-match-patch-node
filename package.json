@@ -1,5 +1,5 @@
 {
-  "name": "diffMatchPatch",
+  "name": "diff-match-patch-node",
   "version": "0.9.0",
   "description": "node wrap of google-diff-match-patch",
   "main": "index.js",
