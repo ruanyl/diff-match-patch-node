@@ -16,4 +16,7 @@ $ npm install diff-match-patch-node
 
 ``` js
 var diffMatchPatch = require('diff-match-patch-node');
+
+diffMatchPatch().diff_main('test A B', 'test B B');
+// => [ [ 0, 'test ' ], [ -1, 'A' ], [ 1, 'B' ], [ 0, ' B' ] ]
 ```
