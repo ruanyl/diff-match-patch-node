@@ -1,6 +1,7 @@
 diff-match-patch
 ========
 [![NPM version](https://badge.fury.io/js/diff-match-patch-node.svg)](http://badge.fury.io/js/diff-match-patch-node)
+[![Build Status](https://travis-ci.org/ruanyl/diff-match-patch-node.svg?branch=master)](https://travis-ci.org/ruanyl/diff-match-patch-node)
 
 node wrap of google-diff-match-patch
 
